@@ -1,0 +1,5 @@
+c:\local_apps\SukhotinsAlgorithm\SukhotinsAlgorithm\bin\Debug\SukhotinsAlgorithm.exe
+c:\local_apps\SukhotinsAlgorithm\SukhotinsAlgorithm\bin\Debug\SukhotinsAlgorithm.pdb
+c:\local_apps\SukhotinsAlgorithm\SukhotinsAlgorithm\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\local_apps\SukhotinsAlgorithm\SukhotinsAlgorithm\obj\x86\Debug\SukhotinsAlgorithm.exe
+c:\local_apps\SukhotinsAlgorithm\SukhotinsAlgorithm\obj\x86\Debug\SukhotinsAlgorithm.pdb

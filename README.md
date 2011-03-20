@@ -1,0 +1,4 @@
+# Implementation of Sukhotin's Algorithm
+I just read an article on [HackerNews](http://news.ycombinator.com/) about a little-known algorithm called [Sukhotin's Algorithm](http://alaska-kamtchatka.blogspot.com/2010/07/sukhotins-algorithm.html). The algorithm takes a dictionary of words and tries to figure out what the vowels are, based on the assumption that vowels are typically next to consonants. This sounded really cool, so I downloaded a [big list of English words](http://www.mieliestronk.com/wordlist.html) and implemented it.
+
+More information and discussion about it on [nashcoding](http://www.nashcoding.com/2010/07/07/implementation-of-sukhotins-algorithm/).
